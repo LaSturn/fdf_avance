@@ -1,0 +1,3 @@
+- j ajoute ma libft
+- dans la libft je vais inclure get netxt lin
+- j inclue aussi ft_printf
